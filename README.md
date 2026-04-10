@@ -39,8 +39,7 @@
 ## 🚀 Projects
 - 💡 [1. Tip Calculator App](https://tip-calculator-app-mocha-omega.vercel.app/)
 - 💡 [2. Sharingan eyes](https://sharingan-hary300.vercel.app/)
-- 💡 Interactive UI Components
-- 💡 Responsive Web Layouts
+- 💡 [3. Time Tracking Dashboard](https://time-tracking-dashboard-henna-alpha.vercel.app/)
 
 ---
 
