@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Hary</h1>
+<h3 align="center">Frontend Developer in Progress 🚀</h3>
 
-<!--
-**Hary300/Hary300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+Frontend+Development;Building+Real+Projects;Improving+Everyday&center=true&width=500&height=45">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🌱 I’m currently learning **Frontend Development**
+- 💻 Focused on **HTML, CSS, JavaScript**
+- 🎯 Goal: Become a **Junior Frontend Developer**
+- ⚡ Always improving through **projects & practice**
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,figma,git,github,vscode" />
+</p>
+
+---
+
+## 📚 Currently Learning
+- Advanced JavaScript
+- DOM manipulation & event handling
+- Building interactive web apps
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hary300&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hary300&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Projects
+- 💡 Calculator App
+- 💡 Interactive UI Components
+- 💡 Responsive Web Layouts
+
+---
+
+## 🎯 Goals
+- Get an **Internship / Junior Frontend Role**
+- Build real-world projects
+- Improve problem-solving skills
+
+---
+
+## 📫 Connect with me
+<p align="center">
+  <a href="https://github.com/Hary300">
+    <img src="https://img.shields.io/badge/GitHub-Hary300-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+⭐ *Always learning, always improving.*
