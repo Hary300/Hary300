@@ -32,7 +32,7 @@
 ## 📊 GitHub Stats
 <p align="center">
  
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hary300&show_icons=true&theme=tokyonight" />
+
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hary300&theme=tokyonight" />
 </p>
