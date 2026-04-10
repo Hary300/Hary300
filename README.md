@@ -37,7 +37,7 @@
 ---
 
 ## 🚀 Projects
-- 💡 Calculator App
+- 💡 [1. Tip Calculator App](https://tip-calculator-app-mocha-omega.vercel.app/)
 - 💡 Interactive UI Components
 - 💡 Responsive Web Layouts
 
