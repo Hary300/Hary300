@@ -63,7 +63,9 @@
     <img src="https://img.shields.io/badge/Discord-hary300-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
   
-  
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 
 </p>
 
