@@ -53,9 +53,18 @@
 
 ## 📫 Connect with me
 <p align="center">
+ 
+  
   <a href="https://github.com/Hary300">
     <img src="https://img.shields.io/badge/GitHub-Hary300-black?style=for-the-badge&logo=github">
   </a>
+
+<a href="https://discord.com/users/965224472103764018">
+    <img src="https://img.shields.io/badge/Discord-hary300-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  
+  
+
 </p>
 
 ---
