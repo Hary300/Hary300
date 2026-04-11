@@ -40,7 +40,7 @@
 - 💡 [1. Tip Calculator App](https://tip-calculator-app-mocha-omega.vercel.app/)
 - 💡 [2. Sharingan eyes](https://sharingan-hary300.vercel.app/)
 - 💡 [3. Time Tracking Dashboard](https://time-tracking-dashboard-henna-alpha.vercel.app/)
-
+- 💡 [4. Voice Counter App](https://voice-counter-app.vercel.app/)
 ---
 
 ## 🎯 Goals
