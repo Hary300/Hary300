@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 - 🌱 I’m currently learning **Frontend Development**
-- 💻 Focused on **HTML, CSS, JavaScript**
+- 💻 Focused on **HTML, CSS, JavaScript, React, Next**
 - 🎯 Goal: Become a **Junior Frontend Developer**
 - ⚡ Always improving through **projects & practice**
 
