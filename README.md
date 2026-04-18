@@ -22,7 +22,7 @@
 - [4. Voice Counter App](https://voice-counter-app.vercel.app/)
 - [5. Hary Movies DB](https://hary-movie-db.vercel.app/)
 - [6. Itachi Landing Page](https://itachi-uchiha-hary300.vercel.app/)
-- [7.Neumorphic Calculator](https://neumorphic-soft-ui-calculator.vercel.app/)
+- [7. Neumorphic Calculator](https://neumorphic-soft-ui-calculator.vercel.app/)
 ---
 
 ## 🛠️ Tech Stack
