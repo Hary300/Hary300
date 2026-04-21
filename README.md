@@ -23,7 +23,7 @@
 - [5. Hary Movies DB](https://hary-movie-db.vercel.app/)
 - [6. Itachi Landing Page](https://itachi-uchiha-hary300.vercel.app/)
 - [7. Neumorphic Calculator](https://neumorphic-soft-ui-calculator.vercel.app/)
-- [8. Responsive Simple Portfolio](wph-project-01-simple-portfolio.vercel.app)
+- [8. Responsive Simple Portfolio](https://wph-project-01-simple-portfolio.vercel.app/) 
 ---
 
 ## 🛠️ Tech Stack
