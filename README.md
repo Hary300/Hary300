@@ -25,6 +25,7 @@
 - [7. Neumorphic Calculator](https://neumorphic-soft-ui-calculator.vercel.app/)
 - [8. Responsive Simple Portfolio](https://wph-project-01-simple-portfolio.vercel.app/)
 - [9. Interactive Rating Component](https://frontendmentor-project-12-interacti.vercel.app/)
+- [10. CLI Calculator](https://github.com/Hary300/WPH-Project-03-CLI-Calculator)
 
 ---
 
