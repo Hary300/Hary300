@@ -10,7 +10,6 @@
 ## 🧠 About Me
 - 🌱 I’m currently learning **Frontend Development**
 - 💻 Focused on **HTML, CSS, JavaScript, React, Next**
-- 🎯 Goal: Become a **Junior Frontend Developer**
 - ⚡ Always improving through **projects & practice**
 
 ---
@@ -64,14 +63,13 @@
 ---
 
 ## 📚 Currently Learning
-- Advanced JavaScript
+- Advanced JavaScript, React, Next
 - DOM manipulation & event handling
 - Building interactive web apps
 
 ---
 
 ## 🎯 Goals
-- Get an **Internship / Junior Frontend Role**
 - Build real-world projects
 - Improve problem-solving skills
 
