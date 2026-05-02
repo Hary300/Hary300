@@ -63,17 +63,4 @@
 
 ---
 
-## 📚 Currently Learning
-- Advanced JavaScript, React, Next
-- DOM manipulation & event handling
-- Building interactive web apps
-
----
-
-## 🎯 Goals
-- Build real-world projects
-- Improve problem-solving skills
-
----
-
 ⭐ *Always learning, always improving.*
