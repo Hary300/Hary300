@@ -26,6 +26,7 @@
 - [9. Interactive Rating Component](https://frontendmentor-project-12-interacti.vercel.app/)
 - [10. CLI Calculator](https://github.com/Hary300/WPH-Project-03-CLI-Calculator)
 - [11. FAQ Accordion](https://frontendmentor-project-13-faq-accor.vercel.app/)
+- [12. Responsive Simple Porfolio 2](https://hary300.github.io/WPH-Project-02-Tailwindcss/)
 
 ---
 
