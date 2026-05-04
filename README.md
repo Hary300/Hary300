@@ -15,11 +15,12 @@
 - [5. Hary Movies DB](https://hary-movie-db.vercel.app/)
 - [6. Itachi Landing Page](https://itachi-uchiha-hary300.vercel.app/)
 - [7. Neumorphic Calculator](https://neumorphic-soft-ui-calculator.vercel.app/)
-- [8. Responsive Simple Portfolio](https://wph-project-01-simple-portfolio.vercel.app/)
-- [9. Interactive Rating Component](https://frontendmentor-project-12-interacti.vercel.app/)
-- [10. CLI Calculator](https://github.com/Hary300/WPH-Project-03-CLI-Calculator)
-- [11. FAQ Accordion](https://frontendmentor-project-13-faq-accor.vercel.app/)
-- [12. Responsive Simple Porfolio 2](https://hary300.github.io/WPH-Project-02-Tailwindcss/)
+- [8. Responsive Simple Portfolio 1](https://wph-project-01-simple-portfolio.vercel.app/)
+- [9. Responsive Simple Portfolio 1 with tailwindcss](https://wph-project-15-simple-portfolio-tai.vercel.app/)
+- [10. Interactive Rating Component](https://frontendmentor-project-12-interacti.vercel.app/)
+- [11. CLI Calculator](https://github.com/Hary300/WPH-Project-03-CLI-Calculator)
+- [13. FAQ Accordion](https://frontendmentor-project-13-faq-accor.vercel.app/)
+- [14. Responsive Simple Porfolio 2](https://hary300.github.io/WPH-Project-02-Dark-Mode-Tailwindcss/)
 
 ---
 
