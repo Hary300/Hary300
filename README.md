@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hary</h1>
-<h3 align="center">Frontend Developer 🚀</h3>
+<h3 align="center">Full Stack Developer 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+Frontend+Development;Building+Real+Projects;Improving+Everyday&center=true&width=500&height=45">
