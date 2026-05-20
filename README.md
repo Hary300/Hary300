@@ -8,13 +8,13 @@
 ---
 
 ## 🚀 Projects
-- [1. Tip Calculator App](https://tip-calculator-app-mocha-omega.vercel.app/)
+- [1. Neumorphic Calculator](https://neumorphic-soft-ui-calculator.vercel.app/)
 - [2. Sharingan Eyes](https://sharingan-hary300.vercel.app/)
 - [3. Time Tracking Dashboard](https://time-tracking-dashboard-henna-alpha.vercel.app/)
 - [4. Voice Counter App](https://voice-counter-app.vercel.app/)
 - [5. Hary Movies DB](https://hary-movie-db.vercel.app/)
 - [6. Itachi Landing Page](https://itachi-uchiha-hary300.vercel.app/)
-- [7. Neumorphic Calculator](https://neumorphic-soft-ui-calculator.vercel.app/)
+- [7. Tip Calculator App](https://tip-calculator-app-mocha-omega.vercel.app/)
 - [8. Responsive Simple Portfolio 1](https://wph-project-01-simple-portfolio.vercel.app/)
 - [9. Responsive Simple Portfolio 1 with tailwindcss](https://wph-project-15-simple-portfolio-tai.vercel.app/)
 - [10. Interactive Rating Component](https://frontendmentor-project-12-interacti.vercel.app/)
