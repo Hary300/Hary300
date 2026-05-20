@@ -27,35 +27,30 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,figma,nodejs,git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,figma,nodejs,git,github,vscode,nextjs,vercel,notion" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hary300&theme=tokyonight" />
-</p>
+# 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Hary300&theme=aura&hide_border=false&include_all_commits=true&count_private=false" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Hary300&theme=aura&hide_border=false" />  
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Hary300&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="165" />
+</div>
 
 ---
 
-## 📫 Connect with me
-<p align="center">
- 
-  <a href="https://github.com/Hary300">
-    <img src="https://img.shields.io/badge/GitHub-Hary300-black?style=for-the-badge&logo=github">
-  </a>
-
-<a href="https://discord.com/users/965224472103764018">
-    <img src="https://img.shields.io/badge/Discord-hary300-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-  
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/965224472103764018) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:h.nugraha.p@gmail.com) 
 
 ---
 
 ⭐ *Always learning, always improving.*
+
