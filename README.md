@@ -32,7 +32,7 @@
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Hary300&theme=aura&hide_border=false&include_all_commits=true&count_private=false" height="165" />
 </div>
