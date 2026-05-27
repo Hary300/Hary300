@@ -10,7 +10,6 @@
 ## 🚀 Projects
 - [1. Neumorphic Calculator](https://neumorphic-soft-ui-calculator.vercel.app/)
 - [2. Hary300 Todo List](https://wph-rep-project-05-to-do-list.vercel.app/)
-- [2. Sharingan Eyes](https://sharingan-hary300.vercel.app/)
 - [3. Time Tracking Dashboard](https://time-tracking-dashboard-henna-alpha.vercel.app/)
 - [4. Voice Counter App](https://voice-counter-app.vercel.app/)
 - [5. Hary Movies DB](https://hary-movie-db.vercel.app/)
@@ -21,6 +20,7 @@
 - [10. CLI Calculator](https://github.com/Hary300/WPH-Project-03-CLI-Calculator)
 - [11. FAQ Accordion](https://frontendmentor-project-13-faq-accor.vercel.app/)
 - [12. Responsive Simple Porfolio 2](https://hary300.github.io/WPH-Project-02-Dark-Mode-Tailwindcss/)
+- [13. Sharingan Eyes](https://sharingan-hary300.vercel.app/)
 
 ---
 
