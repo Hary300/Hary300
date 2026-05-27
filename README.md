@@ -9,6 +9,7 @@
 
 ## 🚀 Projects
 - [1. Neumorphic Calculator](https://neumorphic-soft-ui-calculator.vercel.app/)
+- [2. Hary300 Todo List](https://wph-rep-project-05-to-do-list.vercel.app/)
 - [2. Sharingan Eyes](https://sharingan-hary300.vercel.app/)
 - [3. Time Tracking Dashboard](https://time-tracking-dashboard-henna-alpha.vercel.app/)
 - [4. Voice Counter App](https://voice-counter-app.vercel.app/)
