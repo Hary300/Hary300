@@ -34,21 +34,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Hary300&theme=aura&hide_border=false&include_all_commits=true&count_private=false" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Hary300&theme=aura&hide_border=false" />  
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Hary300&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="165" />
-</div>
-
----
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/965224472103764018) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:h.nugraha.p@gmail.com) 
 
