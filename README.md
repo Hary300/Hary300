@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 Projects
-1. [Movie Database 1.0](https://personal-project-24-movie-db.vercel.app/)
+1. [Movie Database 2.0](https://personal-project-28-movie-db-app.vercel.app/)
 2. [Movie Database 1.0](https://personal-project-24-movie-db.vercel.app/)
 3. [Neumorphic Calculator](https://neumorphic-soft-ui-calculator.vercel.app/)
 4. [Hary300 Todo List](https://wph-rep-project-05-to-do-list.vercel.app/)
