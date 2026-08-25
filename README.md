@@ -14,7 +14,7 @@
 4. [Movie Database 2.0](https://personal-project-28-movie-db-app.vercel.app/)
 5. [Movie Database 1.0](https://personal-project-24-movie-db.vercel.app/)
 6. [Company Profile](https://personal-project-27-company-profile.vercel.app/)
-7. [To Do List](https://wph-rep-project-05-to-do-list.vercel.app/)
+7. [To Do List](https://personal-project-26-todo-app-fronte.vercel.app/)
 8. [Neumorphic Calculator](https://neumorphic-soft-ui-calculator.vercel.app/)
 9. [Hary300 Todo List](https://wph-rep-project-05-to-do-list.vercel.app/)
 10. [Time Tracking Dashboard](https://time-tracking-dashboard-henna-alpha.vercel.app/)
